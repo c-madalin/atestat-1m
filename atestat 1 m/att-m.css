@@ -1,0 +1,141 @@
+body
+{background-color:#5c7194;
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+
+}
+p{
+	font-size:20px;
+	font-family:Georgia;
+}
+h1{
+	text-transform:uppercase;
+    text-decoration:overline;
+    font-size:20px;
+    font-family:bookman old style;
+    color:black;
+    text-align:center;
+}
+h2, h3
+{
+    text-transform:uppercase;
+    text-decoration:overline;
+    font-size:20px;
+    font-family:bookman old style;
+    color:#483C32;
+    text-align:center;
+}
+#centru_1{
+	margin: auto;
+    border:2px #0000FF solid;
+    border-radius:10px;
+    padding:20px;
+    background-color:#ADD8E6;
+	width:800px;
+	height:550px;
+	display:block;
+	clear:both;
+}
+#centru_2{
+	clear:both;
+	position:relative;
+	margin: auto;
+    padding:20px;
+    background-color:DC5E42;
+	width:25%;
+	height:7%;
+	display:block;
+}
+
+#stanga
+{
+    float:left;
+    margin:0 30px 30px 30px;
+    padding:20px;
+    width:800px;
+	display:block;
+}
+
+#dreapta
+{
+	display:block;
+    float:right;
+    margin:0 30px 30px 30px;
+    padding:20px;
+    width:800px;
+    
+}
+#stanga_1
+{   margin-bottom: 20px;
+    border:2px #0000FF solid;
+    border-radius:10px;
+    padding:20px;
+    background-color:#ADD8E6;
+}
+/*tr:nth-child(even) {
+  background-color: #800080;
+}
+first-child
+{background-color: #12340;}*/
+#stanga_2
+{
+    padding:20px;
+    padding-top:0;
+    border:2px #0000FF solid;
+    border-radius:10px;
+    background-color:#ADD8E6;
+
+}
+#stanga_3
+{  
+margin: auto;
+    border:2px #0000FF solid;
+    border-radius:10px;
+    padding:20px;
+    background-color:B999FF;
+	width:50%;
+	display:block;
+}
+#dreapta_1
+{   margin-bottom: 20px;
+    border:2px #0000FF solid;
+    border-radius:10px;
+    padding:20px;
+    background-color:#ADD8E6;
+}
+#dreapta_2
+{
+    padding:20px;
+    padding-top:0;
+    border:2px #0000FF solid;
+    border-radius:10px;
+    background-color:#ADD8E6;
+	
+	
+}
+ 
+#atestat
+{
+    width:100%;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
